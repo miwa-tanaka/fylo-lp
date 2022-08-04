@@ -166,7 +166,8 @@ nav ul li a:hover {
 
 .bottom-msg {
   display: flex;
-  width: 90%;
+  justify-content: space-around;
+  width: 80%;
   margin: 0 auto;
   padding-top: 130px;
 }
